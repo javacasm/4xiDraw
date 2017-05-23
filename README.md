@@ -14,6 +14,9 @@
 ## [Repositorio de DarkMen](https://github.com/darkomen/4xiDraw)
 ## [post de Misam](https://fightpc.blogspot.com.es/2016/04/4xidraw-another-pen-plotter.html)
 
+[Vídeo de como conectar al cnc-shield](https://www.youtube.com/watch?v=384LNaQAZts)
+
+[Vídeo de como usar inkscape](https://www.youtube.com/watch?v=oRxnKMXUYaA   )
 
 [Jumper en cnc-shield](http://blog.protoneer.co.nz/arduino-cnc-shield-v3-00-assembly-guide/#Jumpers)
 
